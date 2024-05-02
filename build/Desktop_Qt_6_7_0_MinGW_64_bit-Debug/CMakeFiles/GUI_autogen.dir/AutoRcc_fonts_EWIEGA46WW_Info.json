@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/Users/Vega/OneDrive/Desktop/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/GUI_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Vega/OneDrive/Desktop/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Vega/OneDrive/Desktop/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Vega/OneDrive/Desktop/GUI",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Vega/OneDrive/Desktop/GUI",
+	"INCLUDE_DIR" : "C:/Users/Vega/OneDrive/Desktop/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/GUI_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Vega/Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-Bold.ttf",
+		"C:/Users/Vega/Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-Italic.ttf",
+		"C:/Users/Vega/Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-Regular.ttf",
+		"C:/Users/Vega/Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-BoldItalic.ttf"
+	],
+	"LOCK_FILE" : "C:/Users/Vega/OneDrive/Desktop/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/GUI_autogen.dir/AutoRcc_fonts_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "fonts" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_fonts.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Vega/OneDrive/Desktop/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/GUI_autogen.dir/AutoRcc_fonts_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Vega/OneDrive/Desktop/GUI/fonts.qrc",
+	"VERBOSITY" : 0
+}

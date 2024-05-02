@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-Bold.ttf</file>
+        <file>../../../Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-BoldItalic.ttf</file>
+        <file>../../../Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-Italic.ttf</file>
+        <file>../../../Downloads/Atkinson_Hyperlegible/AtkinsonHyperlegible-Regular.ttf</file>
+    </qresource>
+</RCC>
